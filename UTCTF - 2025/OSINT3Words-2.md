@@ -1,4 +1,5 @@
 # OSINT Three Words 2:
+![what3words-2](https://github.com/user-attachments/assets/a79e4c59-5cdd-4250-9d0c-a49b19f8d149)
 
 ## Provided Image: (Image has been resized to 80% of its original size to allow upload)
 ![image (4)](https://github.com/user-attachments/assets/e13ba7da-b8c1-41f5-9ce1-f14c90c83045)
