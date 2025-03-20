@@ -2,7 +2,7 @@
 ![what3words3](https://github.com/user-attachments/assets/5388c5f7-e7a1-472d-a867-55284fe50a09)
 
 ## Provided Image...
-![what3words3](https://github.com/user-attachments/assets/a606a858-9fb3-471b-8097-50877a6fc8c0)
+![image (3)](https://github.com/user-attachments/assets/1d4a0f18-7049-491c-94ca-2ef7d37e1b1e)
 
 1. Using a similar method to Three Words 2 I used the University Facilities Services website (https://utdirect.utexas.edu/apps/campus/buildings/nlogon/facilities/) to find the building.
 2. I soon found the building due to the similarities in windows, surroundings, and overall structure that it was the ANDREWS RESIDENCE HALL (AND – 0009) and the street name is Whitis Avenue.
