@@ -1,4 +1,4 @@
-# Write ups by newjerseyclk
+# Writeups by newjerseyclk
 ---
 
 A repository for the flags I have found in CTFs that I have participated in.
