@@ -12,4 +12,4 @@
 
 **Final what3words position:** [payback.solved.aimless](https://what3words.com/payback.solved.aimless)
 
-**Flag:** ==utflag{payback_solved_aimless}==
+**Flag:** utflag{payback_solved_aimless}
