@@ -1,7 +1,7 @@
 # OSINT Three Words 3
 ![what3words3](https://github.com/user-attachments/assets/5388c5f7-e7a1-472d-a867-55284fe50a09)
 
-## Provided Image...
+## Provided Image
 ![image (3)](https://github.com/user-attachments/assets/1d4a0f18-7049-491c-94ca-2ef7d37e1b1e)
 
 1. Using a similar method to Three Words 2 I used the University Facilities Services website (https://utdirect.utexas.edu/apps/campus/buildings/nlogon/facilities/) to find the building.
