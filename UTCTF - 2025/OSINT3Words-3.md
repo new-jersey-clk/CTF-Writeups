@@ -10,6 +10,6 @@
 3. With the location found I just had to Use the location of the tree seen in both the image and here on google earth [Here](https://earth.google.com/web/search/andrews+residence+building/@30.2878476,-97.74043828,185.14955139a,0d,67.51191976y,51.16392346h,92.65649941t,0r/data=CokBGlsSVQolMHg4NjQ0YjUwODRhOWEyYzVmOjB4MmI2YWM0NDEyMDkzZDcwZBkM1YM4xUk-QCG0AG2rWW9YwCoaYW5kcmV3cyByZXNpZGVuY2UgYnVpbGRpbmcYASABIiYKJAke8mavD0o-QBHVBWcv3Uc-QBlurG1eAG9YwCH-3gmCfG9YwEICCAEiGgoWZ2p0VGR4UWU0MW9XbWwzWFlfQkhEURACQgIIAEoNCP___________wEQAA)
 4. I then went on [what3words](what3words.com) and found the exact square and the flag.
 
-**Final what3words position:** [payback.solved.aimless](https://what3words.com/payback.solved.aimless)
+Final what3words position: [payback.solved.aimless](https://what3words.com/payback.solved.aimless)
 
-**Flag:** utflag{payback_solved_aimless}
+Flag: **utflag{payback_solved_aimless}**
