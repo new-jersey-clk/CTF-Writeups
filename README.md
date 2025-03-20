@@ -12,8 +12,3 @@ A repository for the flags I have found in CTFs that I have participated in.
 **The Morons:**
 
 [Killabit](https://ctftime.org/team/374382)
-
-                            ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ
