@@ -1,16 +1,6 @@
 # Write ups by newjerseyclk
 ---
-   ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄
-   █▒▒░░░░░░░░░▒▒█
-    █░░█░░░░░█░░█
- ▄▄  █░░░▀█▀░░░█  ▄▄
-█░░█ ▀▄░░░░░░░▄▀ █░░█
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
-█░░║║║╠─║─║─║║║║║╠─░░█
-█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
----
+<br>
 A repository for the flags I have found in CTFs that I have participated in.
 <br>
 **Notice:**
@@ -20,4 +10,5 @@ A repository for the flags I have found in CTFs that I have participated in.
 <br>
 <br>
 The Morons:
+
 [Killabit](https://ctftime.org/team/374382)
